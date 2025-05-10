@@ -13,7 +13,7 @@ To write a Python program to read a string from the user and then print it.
 my_reason_for_coding = "saveetha engineering college"
 print(my_reason_for_coding)
 ```
-
+ 
 ## Output
 ![image](https://github.com/user-attachments/assets/0d5b74e9-e565-4232-ac41-6b1f4e818741)
 
