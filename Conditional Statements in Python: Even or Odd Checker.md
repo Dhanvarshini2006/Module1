@@ -1,4 +1,4 @@
-# Conditional Statements in Python: Even or Odd Checker
+# Conditional Statements in Python: Check if number is positive and negative number.
 
 ## 🎯 Aim
 To write a Python program to print the  value and print that number is equal to 0 or positive number or negative using elif statement.
